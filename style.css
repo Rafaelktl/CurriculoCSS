@@ -1,0 +1,30 @@
+.corfonte {
+    color: darkslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: darkblue;
+}
+
+h2 {
+    font-size: 24px;
+    background-color: lightskyblue;
+    color: darkblue;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
